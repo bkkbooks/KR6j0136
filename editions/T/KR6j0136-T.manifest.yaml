@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0136/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0136/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 頂輪王大曼荼羅灌頂儀軌
+  identifiers:
+    krp: KR6j0136
+    cbeta: T19n0959
+    cbeta_old_id: T19n0959
+    authorityid: CA0000772
+    json_key: T0959
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0959.xml
+    old_id: T19n0959
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0136_000-T.yaml, hash: 'sha256:f2687c6d54d08298ebd3efce1e023ffc9e6179ca49587f9270234754ba72893f'}
+  - {seq: 1, filename: KR6j0136_001-T.yaml, hash: 'sha256:a6cce627bb97d01a4c6181b357870742085f3859c647ef416a369e2ade26b647'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0136_000-T.markers.yaml, hash: 'sha256:be14121f13a7bc980aa295b98101867b793a5749feabb2054eb45f8ea98243aa'}
+  - {seq: 1, role: markers, filename: assets/KR6j0136_001-T.markers.yaml, hash: 'sha256:887314b0bd7b2cb3f50fd0062e951b60c2b99c324a41c94e986e1b6a12a64708'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0136_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2853
+  label: 頂輪王大曼荼羅灌頂儀軌
+  type: juan
+  level: 1
+hash: sha256:bb89263ea762476eb2477cd94de1f631eca1a5d8c471256f348e3f95c358d37e

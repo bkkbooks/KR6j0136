@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0136/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 頂輪王大曼荼羅灌頂儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0959.xml
+    old_id: T19n0959
+hash: sha256:f2687c6d54d08298ebd3efce1e023ffc9e6179ca49587f9270234754ba72893f
