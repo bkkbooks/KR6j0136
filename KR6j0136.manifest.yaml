@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0136_000.yaml, hash: 'sha256:f2687c6d54d08298ebd3efce1e023ffc9e6179ca49587f9270234754ba72893f'}
-  - {seq: 1, filename: KR6j0136_001.yaml, hash: 'sha256:d7cbbe2ee0716e63e0676958b7fd707dd0a87a5033ab6ded93275a203e122467'}
+  - {seq: 1, filename: KR6j0136_001.yaml, hash: 'sha256:a6cce627bb97d01a4c6181b357870742085f3859c647ef416a369e2ade26b647'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0136_001.markers.yaml, hash: 'sha256:237f71561143ebf35ae5502a4ad00a0eeb80701c528199ff5b0add5c2200fb62'}
+  - {seq: 0, role: markers, filename: assets/KR6j0136_000.markers.yaml, hash: 'sha256:e33560bff27d2d169736bec25cee31d809e0b70943a48f862f354725981ffff1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0136_001.markers.yaml, hash: 'sha256:a22e21d166f1c3ba76c72d7afcb238654cf50049b46c4318f39cc28359b2f87e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 頂輪王大曼荼羅灌頂儀軌
   type: juan
   level: 1
-hash: sha256:8bca05ba2c23c50fd57be1a623953bd13c95c0635963e64f9706dce52e518b50
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:caebeb0087cbd39fa3457f9332d96b9a2b4bf119d57db37f1414206a039cd102
 editions:
 - short: T
